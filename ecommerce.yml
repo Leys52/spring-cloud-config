@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 #토큰의 인증 허가 시간(1일)  60(s) * 60(m) * 24(d) * 1000(단위 ms)
-  secret: user_token #어떤 암호를 적용할 지
+  secret: user_token_ecommerce #어떤 암호를 적용할 지
 
 gateway:
   ip: 192.168.0.8
