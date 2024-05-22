@@ -3,4 +3,4 @@ token:
   secret: my_token_prod #어떤 암호를 적용할 지
 
 gateway:
-  ip: 192.168.0.8
+  ip: 192.168.100.14
